@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Awsomedog7
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning nothing useful
+- 💞️ I’m looking to collaborate on nothing at all
+- 📫 contact me at daegankorczyk0@gmail.com
