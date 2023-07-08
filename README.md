@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning nothing useful
 - 💞️ I’m looking to collaborate on nothing at all
-- 📫 contact me at daegankorczyk0@gmail.com
+- 📫 contact me at awsomedog7@proton.me
