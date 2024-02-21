@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Awsomedog7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning nothing useful
-- 💞️ I’m looking to collaborate on nothing at all
-- 📫 contact me at awsomedog7@proton.me
+[Hey.](https://heybuddy-awsomedog7.vercel.app/)
